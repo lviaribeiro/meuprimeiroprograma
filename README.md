@@ -1,2 +1,2 @@
-# somardoisnumeorsos.java
+# somardoisnumeorsos
 Meu primeiro programa em Java. 
